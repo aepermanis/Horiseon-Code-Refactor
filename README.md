@@ -11,7 +11,7 @@ SO THAT this site is optimized for web searches
 This project cleaned up the webpage for a firm. It simplfied their code and allowed it to nicely fit and style on the page.
 
 ![screenshot](assets/images/screenshot.png)
-![sceenshot2](assets/images/screenshot2.png)
+![screenshot1](assets/images/screenshot1.png)
 
 
 
